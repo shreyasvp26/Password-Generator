@@ -18,4 +18,4 @@ In this small project, I have used Python to write my code. I have used a module
 
 ## Installation
 1. Clone this repository:
-   git clone <https://github.com/shreyasvp26/Password-Generator---Python>
+   git clone <https://github.com/shreyasvp26/Password-Generator>
